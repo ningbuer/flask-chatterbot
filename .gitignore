@@ -1,0 +1,4 @@
+/.pydevproject
+/db.sqlite3
+/sentence_tokenizer.pickle
+/.project
